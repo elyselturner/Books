@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="bc18e656-b276-4909-a10c-d7a0f5f9f3b7" name="Default" comment="" />
+    <list default="true" id="bc18e656-b276-4909-a10c-d7a0f5f9f3b7" name="Default" comment="">
+      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/example/bookExercise/FavoriteBook.java" afterPath="" />
+      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/example/bookExercise/bookExerciseDemo.java" afterPath="$PROJECT_DIR$/src/com/example/bookExercise/Book.java" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+    </list>
     <ignored path="booksExercise.iws" />
     <ignored path=".idea/workspace.xml" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,22 +27,17 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="bookExerciseDemo.java" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/com/example/bookExercise/bookExerciseDemo.java">
+      <file leaf-file-name="Book.java" pinned="false" current="true" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/com/example/bookExercise/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-              <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FavoriteBook.java" pinned="false" current="true" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/com/example/bookExercise/FavoriteBook.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.10344828" vertical-offset="0" max-vertical-offset="870">
-              <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-              <folding />
+            <state vertical-scroll-proportion="0.4503464" vertical-offset="0" max-vertical-offset="866">
+              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+              <folding>
+                <element signature="e#312#313#0" expanded="true" />
+                <element signature="e#350#351#0" expanded="true" />
+                <element signature="e#434#435#0" expanded="true" />
+                <element signature="e#498#499#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -58,6 +57,7 @@
       <list>
         <option value="$PROJECT_DIR$/src/com/example/bookExercise/bookExerciseDemo.java" />
         <option value="$PROJECT_DIR$/src/com/example/bookExercise/FavoriteBook.java" />
+        <option value="$PROJECT_DIR$/src/com/example/bookExercise/Book.java" />
       </list>
     </option>
   </component>
@@ -65,7 +65,7 @@
     <option name="x" value="840" />
     <option name="y" value="22" />
     <option name="width" value="840" />
-    <option name="height" value="967" />
+    <option name="height" value="963" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="false">
     <OptionsSetting value="true" id="Add" />
@@ -142,6 +142,7 @@
     <property name="MemberChooser.sorted" value="false" />
     <property name="MemberChooser.showClasses" value="true" />
     <property name="MemberChooser.copyJavadoc" value="false" />
+    <property name="FullScreen" value="false" />
   </component>
   <component name="RunManager">
     <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
@@ -289,7 +290,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="840" y="22" width="840" height="967" extended-state="0" />
+    <frame x="840" y="22" width="840" height="963" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Palette&#9;" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
@@ -336,19 +337,16 @@
     <breakpoint-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/com/example/bookExercise/bookExerciseDemo.java">
+    <entry file="file://$PROJECT_DIR$/src/com/example/bookExercise/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.0" vertical-offset="0" max-vertical-offset="210">
-          <caret line="8" column="0" selection-start-line="8" selection-start-column="0" selection-end-line="8" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/com/example/bookExercise/FavoriteBook.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.10344828" vertical-offset="0" max-vertical-offset="870">
-          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
-          <folding />
+        <state vertical-scroll-proportion="0.4503464" vertical-offset="0" max-vertical-offset="866">
+          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+          <folding>
+            <element signature="e#312#313#0" expanded="true" />
+            <element signature="e#350#351#0" expanded="true" />
+            <element signature="e#434#435#0" expanded="true" />
+            <element signature="e#498#499#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
