@@ -5,9 +5,13 @@ package com.example.bookExercise;
  */
 public class Book {
     private static double numOfBooksIHave;
+    private static String print;
     private double booksInLibrary;
     private String coverColor;
     private String authorName;
+    private String bookInfo;
+
+
 
     private int numOfPages;
 
@@ -24,8 +28,19 @@ public class Book {
         return coverColor;
     }
 
-//    public String readingIsAwesome(){
-//        return System.out.println("Reading is awesome!");
-//    }
+    public void setAuthorName(String inputAuthorName){
+        authorName = inputAuthorName;
+    }
+
+    public String getAuthorName(){
+        return authorName;
+    }
+
+    public static void readingIsAwesome(){
+        System.out.println( "Reading is awesome!");
+    }
+    public void print(){
+        System.out.println("This book looks pretty great! It has a " + coverColor + " cover, by " + authorName);
+    }
 
 }
