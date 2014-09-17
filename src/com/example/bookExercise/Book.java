@@ -8,6 +8,7 @@ public class Book {
     private double booksInLibrary;
     private String coverColor;
     private String authorName;
+
     private int numOfPages;
 
 
@@ -15,12 +16,16 @@ public class Book {
         return numOfBooksIHave;
     }
 
-    public void setReadingIsAwesome(){
-
+    public void setCoverColor(String inputCoverColor){
+        coverColor = inputCoverColor;
     }
 
-    public void readingIsAwesome(){
-        return System.out.println("Reading is awesome!");
+    public String getCoverColor(){
+        return coverColor;
     }
+
+//    public String readingIsAwesome(){
+//        return System.out.println("Reading is awesome!");
+//    }
 
 }

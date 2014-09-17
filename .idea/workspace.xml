@@ -2,9 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="bc18e656-b276-4909-a10c-d7a0f5f9f3b7" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/src/com/example/bookExercise/FavoriteBook.java" afterPath="" />
-      <change type="MOVED" beforePath="$PROJECT_DIR$/src/com/example/bookExercise/bookExerciseDemo.java" afterPath="$PROJECT_DIR$/src/com/example/bookExercise/Book.java" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/com/example/bookExercise/Book.java" afterPath="$PROJECT_DIR$/src/com/example/bookExercise/Book.java" />
     </list>
     <ignored path="booksExercise.iws" />
     <ignored path=".idea/workspace.xml" />
@@ -30,13 +28,15 @@
       <file leaf-file-name="Book.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/example/bookExercise/Book.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.4503464" vertical-offset="0" max-vertical-offset="866">
-              <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+            <state vertical-scroll-proportion="0.54513484" vertical-offset="0" max-vertical-offset="853">
+              <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
               <folding>
-                <element signature="e#312#313#0" expanded="true" />
-                <element signature="e#350#351#0" expanded="true" />
-                <element signature="e#434#435#0" expanded="true" />
-                <element signature="e#498#499#0" expanded="true" />
+                <element signature="e#313#314#0" expanded="true" />
+                <element signature="e#351#352#0" expanded="true" />
+                <element signature="e#407#408#0" expanded="true" />
+                <element signature="e#451#452#0" expanded="true" />
+                <element signature="e#487#488#0" expanded="true" />
+                <element signature="e#520#521#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -339,13 +339,15 @@
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/src/com/example/bookExercise/Book.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.4503464" vertical-offset="0" max-vertical-offset="866">
-          <caret line="26" column="0" selection-start-line="26" selection-start-column="0" selection-end-line="26" selection-end-column="0" />
+        <state vertical-scroll-proportion="0.54513484" vertical-offset="0" max-vertical-offset="853">
+          <caret line="31" column="0" selection-start-line="31" selection-start-column="0" selection-end-line="31" selection-end-column="0" />
           <folding>
-            <element signature="e#312#313#0" expanded="true" />
-            <element signature="e#350#351#0" expanded="true" />
-            <element signature="e#434#435#0" expanded="true" />
-            <element signature="e#498#499#0" expanded="true" />
+            <element signature="e#313#314#0" expanded="true" />
+            <element signature="e#351#352#0" expanded="true" />
+            <element signature="e#407#408#0" expanded="true" />
+            <element signature="e#451#452#0" expanded="true" />
+            <element signature="e#487#488#0" expanded="true" />
+            <element signature="e#520#521#0" expanded="true" />
           </folding>
         </state>
       </provider>
